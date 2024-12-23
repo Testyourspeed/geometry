@@ -1,4 +1,4 @@
-const geometryQuestions = [
+const questions = [
     // Round 1
     [
         {
